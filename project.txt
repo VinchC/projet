@@ -1,0 +1,71 @@
+Indicateurs possibles :
+- émissions de C0² (volume?)
+- anomalies températures moyennes (période référence 1951-1980 sur site NASA)
+- à choisir parmi les suivants : montée des eaux, désertification, inondations, diminution précipitations, gestion eaux pluviales, une urbanisation qui limite l'infiltration des eaux (perméabilité des sols)
+
+
+
+Analyse :
+ - par zone :
+	- monde entier
+	- hémisphère Sud et Nord
+	- plus localisé ? (grandes zones géographiques via bandes latitudinale - plus complexe)
+ - autre ?
+
+
+
+Période de référence :
+ - début en 1880
+ - point d'étape ? 1970 ?
+ - jusqu'en 2024
+
+
+
+Définir la problématique - exemples : 2 et 3
+Problématique : partant de l'étude de l'augmentation des émission de C0², le réchauffement climatique s’est-il accéléré depuis les années 1970 et ce phénomène affecte-t-il toutes les régions du globe de manière uniforme ?
+
+
+
+2. Accélération récente du phénomène
+Problématique 2 : Le réchauffement climatique s’est-il accéléré depuis les années 1970 par rapport aux siècles précédents ?
+
+3. Analyse par zones géographiques : 
+Problématique 3 : Le réchauffement climatique affecte-t-il toutes les régions du globe de manière uniforme ?
+
+
+
+Etape 0 : 
+- quel jeu de données sur le site de la NASA ? Le plus pertinent parmi ceux proposés
+
+
+
+- définir le public cible (managers RSE, tout public y compris enfants, décideurs politiques, …)
+
+
+- outils communs : 
+	- PowerBi
+	- GitHub
+	- Visual Code
+	- Google Drive
+
+
+
+Etape 1 : 
+- Excel rapport exploratoire : 
+ 	- col F : définir la méthodologie de traitement des NA
+- Data visualisation : corrélation entre données (seaborn, matplotlib, heatmap)
+- livrable à rendre d'ici dimanche, et non vendredi
+
+
+
+Etape 2 : Données interactives (plotly)
+
+
+
+Livrables : 
+- docs partagés : code source commenté, PowerBI, document soutenance 
+- doc individuel : rendus intermédiaires et final avec rédaction et captures d'écran mais pas de code Python
+- pas de charte graphique particulière
+
+
+Soutenance : partagée entre les membres du groupe
