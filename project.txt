@@ -21,8 +21,8 @@ Période de référence :
 
 
 
-Définir la problématique - exemples : 2 et 3
-Problématique : partant de l'étude de l'augmentation des émission de C0², le réchauffement climatique s’est-il accéléré depuis les années 1970 et ce phénomène affecte-t-il toutes les régions du globe de manière uniforme ?
+Partant de l'analyse des anomalies de température constatées à partir de la période de référence définie par la NASA, nous étudierons les facteurs ayant conduit à l'augmentation des températures en identifiant leurs causes (émissions C0²) et tenterons de déterminer si ce phénomène est régulier dans le temps et s'il affecte toutes les régions du globe de manière uniforme.
+
 
 
 
