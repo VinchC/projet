@@ -1,11 +1,15 @@
 Nous axerons notre étude sur la problématique suivante : partant de l'analyse des anomalies de température constatées depuis 1880 à partir de la période de référence définie par la NASA, quels sont les facteurs ayant conduit à l'augmentation des températures ? Et ce phénomène est-il régulier dans le temps et affecte-t-il toutes les régions du globe de manière uniforme ?
 
+
 Semaine 2 :
  - faut-il retraiter les données sachant qu'on l'a déjà fait précédemment ? Oui, en adaptant les données à Power Query (typage, mesures à créer en Dax)
+	- quels datasets utiliser ? le df fusionné Nasa, le GitHub co², le df France
 
  - modélisation à détailler dans le rapport
 
  - template Power BI à créer - charte graphique libre
+	- trouver un exemple sympa
+	- comment centraliser le travail de chacun ?
 
  - analyse : que souhaite-t-on représenter : 
 	- graphiques déjà réalisés en Python
