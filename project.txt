@@ -1,3 +1,24 @@
+Nous axerons notre étude sur la problématique suivante : partant de l'analyse des anomalies de température constatées depuis 1880 à partir de la période de référence définie par la NASA, quels sont les facteurs ayant conduit à l'augmentation des températures ? Et ce phénomène est-il régulier dans le temps et affecte-t-il toutes les régions du globe de manière uniforme ?
+
+Semaine 2 :
+ - faut-il retraiter les données sachant qu'on l'a déjà fait précédemment ? Oui, en adaptant les données à Power Query (typage, mesures à créer en Dax)
+
+ - modélisation à détailler dans le rapport
+
+ - template Power BI à créer - charte graphique libre
+
+ - analyse : que souhaite-t-on représenter : 
+	- graphiques déjà réalisés en Python
+	- accélération depuis 1970 ? Le réchauffement climatique s’est-il accéléré depuis les années 1970 par rapport aux siècles précédents ?
+	- différentiel Nord-Sud : le réchauffement climatique affecte-t-il toutes les régions du globe de manière uniforme ?
+
+ - public : collégiens + Executive Summary à destination du directeur d'école
+
+ - livrable : vendredi avec tolérance jusqu'à dimanche
+
+
+
+
 Indicateurs possibles :
 - émissions de C0² (volume?)
 - anomalies températures moyennes (période référence 1951-1980 sur site NASA)
@@ -25,37 +46,11 @@ Partant de l'analyse des anomalies de température constatées à partir de la p
 
 
 
-
-2. Accélération récente du phénomène
-Problématique 2 : Le réchauffement climatique s’est-il accéléré depuis les années 1970 par rapport aux siècles précédents ?
-
-3. Analyse par zones géographiques : 
-Problématique 3 : Le réchauffement climatique affecte-t-il toutes les régions du globe de manière uniforme ?
-
-
-
-Etape 0 : 
-- quel jeu de données sur le site de la NASA ? Le plus pertinent parmi ceux proposés
-
-
-
-- définir le public cible (managers RSE, tout public y compris enfants, décideurs politiques, …)
-
-
 - outils communs : 
 	- PowerBi
 	- GitHub
 	- Visual Code
 	- Google Drive
-
-
-
-Etape 1 : 
-- Excel rapport exploratoire : 
- 	- col F : définir la méthodologie de traitement des NA
-- Data visualisation : corrélation entre données (seaborn, matplotlib, heatmap)
-- livrable à rendre d'ici dimanche, et non vendredi
-
 
 
 Etape 2 : Données interactives (plotly)
